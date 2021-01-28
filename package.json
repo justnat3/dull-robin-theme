@@ -1,0 +1,21 @@
+{
+    "name": "dullrobin",
+    "displayName": "Dull Robin",
+    "description": "Red with some Coffee Vibes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DullRobin",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DullRobin.json"
+            }
+        ]
+    }
+}
